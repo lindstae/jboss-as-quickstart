@@ -4,7 +4,7 @@ Author: Karel Piwko
 Level: Beginner
 Technologies: Bean Validation, JPA
 Summary: Shows how to use Arquillian to test Bean Validation
-
+dsadsa
 What is it?
 -----------
 
